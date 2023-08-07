@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @caua-3301, welcome!
- <p>Formando em Análise e Desenvolvimento de Sistemas (ADS), pelo Instituto Federal de Educação e Ciência da Paraíba (IFPB), campus Cajazeiras.</p>
+## Olá, aqui quem fala é Cauã, seja bem vindo!
 
-<!---
-caua-3301/caua-3301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Procuro diariamente aumentar meu conhecimento e habilidades, além disso, busco compreender as necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:cauapires849@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caua-pires-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
