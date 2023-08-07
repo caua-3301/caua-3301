@@ -1,6 +1,6 @@
 ## Olá, aqui quem fala é Cauã, seja bem vindo!
 
-Procuro diariamente aumentar meu conhecimento e habilidades, além disso, busco compreender as necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas
+Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
   
   ##
  
