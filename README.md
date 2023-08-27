@@ -2,8 +2,7 @@
 
 Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&layout=donut)](https://github.com/caua-3301/github-readme-stats)
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&layout=donut\&bg_color=151515\&text_color=ffffff\&title_color=568571)](https://github.com/caua-3301/github-readme-stats)
   ##
  
 <div> 
