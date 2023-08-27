@@ -1,4 +1,4 @@
-## Olá, aqui quem fala é Cauã, seja bem vindo!
+## Olá, aqui quem fala é o Cauã, seja bem vindo!
 
 Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
 
