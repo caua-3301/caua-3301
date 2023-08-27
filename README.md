@@ -1,7 +1,9 @@
 ## Olá, aqui quem fala é Cauã, seja bem vindo!
 
 Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
-  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&layout=donut)](https://github.com/caua-3301/github-readme-stats)
+
   ##
  
 <div> 
