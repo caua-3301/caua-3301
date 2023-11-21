@@ -1,6 +1,6 @@
 ## Oi, eu sou o Cauã, seja bem vindo!
 
-Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas/usuários ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
+Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busco compreender às necessidades das pessoas ao máximo, visando solucinar seus problemas de forma profissional e humanizada.
 
 
 I try to increase my knowledge and skills daily, in addition, I seek to understand the needs of people/users as much as possible, aiming to solve their problems in a professional and humanized way.
