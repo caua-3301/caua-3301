@@ -6,6 +6,9 @@ Procuro diariamente aumentar meus conhecimentos e habilidades, além disso, busc
 I try to increase my knowledge and skills daily, in addition, I seek to understand the needs of people/users as much as possible, aiming to solve their problems in a professional and humanized way.
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&layout=donut\&bg_color=151515\&text_color=ffffff\&title_color=568571)](https://github.com/caua-3301/github-readme-stats)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-3301&show_icons=true&theme=dark)
+
   ##
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
