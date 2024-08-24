@@ -7,7 +7,7 @@ I try to increase my knowledge and skills daily, in addition, I seek to understa
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&layout=donut\&bg_color=151515\&text_color=ffffff\&title_color=568571)](https://github.com/caua-3301/github-readme-stats)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&hide_progress=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caua-3301\&hide_progress=true&theme=dark)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caua-3301&show_icons=true&theme=dark)
 
